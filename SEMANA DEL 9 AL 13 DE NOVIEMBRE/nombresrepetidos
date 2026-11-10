@@ -1,0 +1,12 @@
+Algoritmo nombresrepetidos
+Definir i,suma,n Como Entero
+Definir nombre como caracter
+Escribir "dame un nombre: "
+leer nombre 
+Escribir "Cuantas veces quieres repetir el nombre "
+leer n
+Para i <- 1 Hasta n
+  Escribir "Su nombre es :",nombre
+FinPara
+Escribir "la cantidad de nombres repetidos es: ",n
+FinAlgoritmo
